@@ -1,0 +1,11 @@
+{
+  "name": "projetoauto",
+  "version": "1.0.0",
+  "description": "projeto de teste para aprender a utilizacao de automatizadores de tarefa e etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Benzaquen Magalhães",
+  "license": "ISC"
+}
