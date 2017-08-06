@@ -1,0 +1,13 @@
+.mainHeader{
+
+    font-size: 1.2em;
+
+    .textshadow &{
+        color: #bbb;
+        text-shadow: 2px 2px 1px rgba(0,0,0,.6);
+    }
+
+    .no-textshadow &{
+        color: #717171;
+    }
+}

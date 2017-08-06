@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACA,UAAU,ECDH,IAAI;EDEX,WAAW,ECDR,iBAAiB;;ACDxB,WAAW;EACP,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,8BAA2B",
+"sources": ["../../source/sass/_base/_base.scss","../../source/sass/_base/_variables.scss","../../source/sass/_modules/_mainHeader.scss"],
+"names": [],
+"file": "main.css"
+}
